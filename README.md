@@ -17,3 +17,10 @@ Este programa oferece implementações simples de métodos de integração numé
 1. Compile o programa C usando um compilador compatível com C, como o GCC.
    ```bash
    gcc nome-do-programa.c -o nome-do-programa
+
+2. Execute o programa compilado.
+
+./nome-do-programa
+
+3. O programa solicitará que você escolha entre os métodos de integração disponíveis e solicitará os parâmetros necessários para o cálculo.
+4. Após a escolha, o resultado da integração será exibido.
